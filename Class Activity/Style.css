@@ -1,0 +1,31 @@
+h1{
+    color : red
+}
+
+
+.Header{
+    background-color: wheat;
+    display: flex;
+    justify-content: space-between;
+}
+.Grid{
+    background-color: rgb(241, 170, 230);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.Footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Description{
+    display: flex;
+    justify-content:space-around;
+    flex-direction: column;
+}
+
+p,h2{
+    text-align: center;
+}
